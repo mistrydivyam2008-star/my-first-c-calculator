@@ -31,9 +31,9 @@ int main()
 
         case '/':
             if(num2 != 0)
-                printf("Result = %.2f", num1 / num2);
+                printf("RESULT = %.2f", num1 / num2);
             else
-                printf("Division by zero is not possible.");
+                printf("DIVISION BY ZERO IS NOT POSSIBLE.");
             break;
 
         default:
